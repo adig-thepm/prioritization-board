@@ -2,6 +2,20 @@
 
 Score features, see tradeoffs, decide faster.
 
+<div align="center">
+  <img src="screenshots/Capture-2026-05-17-110012.png" width="100%" alt="Priority Board — full dashboard with priority matrix, ranked chart, and items table">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/Capture-2026-05-17-105837.png" width="58%" alt="Landing page">
+  &nbsp;
+  <img src="screenshots/Capture-2026-05-17-105927.png" width="30%" alt="Add feature / fix modal">
+</div>
+
+<br>
+
 A lightweight, client-side prioritization tool. Add features or fixes, score them across configurable metrics (Impact, Effort, User Value, Confidence), and get an instant ranked board with a priority matrix and decision labels.
 
 All data is stored in `localStorage` — no backend, no accounts.
